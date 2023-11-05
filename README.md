@@ -1,3 +1,3 @@
-# PNVimC
+# Nvim config
 
 Simple neovim config
